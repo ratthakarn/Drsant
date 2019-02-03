@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895461903604",
+    "firebase_url": "https://drsant-4a738.firebaseio.com",
+    "project_id": "drsant-4a738",
+    "storage_bucket": "drsant-4a738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895461903604:android:027d12b73e513129",
+        "android_client_info": {
+          "package_name": "rathakarn.th.co.gkrgroup.drsant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895461903604-5b43rc5rud0o12ejjoo77mjj3qq9dvip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rathakarn.th.co.gkrgroup.drsant",
+            "certificate_hash": "3bee71f0f9558c693209d4b9de09fbf477e5bd79"
+          }
+        },
+        {
+          "client_id": "895461903604-0s1n06nbrjftl8bto2hgh26gu320o65f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOZncfx5AxUnMO5v5En_ppGfEp1kHCFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895461903604-0s1n06nbrjftl8bto2hgh26gu320o65f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
